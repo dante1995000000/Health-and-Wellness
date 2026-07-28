@@ -272,6 +272,26 @@ export const posts: Post[] = [
     ],
   },
   {
+    slug: "vaginal-microbiome-basics",
+    title: "Your Vaginal Microbiome: A Beginner's Guide",
+    excerpt:
+      "An ecosystem of bacteria plays a bigger role in comfort and health than most people realize.",
+    category: "Women's Health",
+    readTime: "6 min read",
+    date: "2026-03-18",
+    height: "medium",
+    image:
+      "https://images.unsplash.com/photo-1571781926291-c477ebfd024b?q=80&w=1200&auto=format&fit=crop",
+    author: "Dr. Maren Ellis",
+    content: [
+      "A healthy vaginal microbiome is typically dominated by Lactobacillus bacteria, which produce lactic acid and keep the environment mildly acidic — a natural defense against infection.",
+      "This balance can be disrupted by antibiotics, hormonal shifts, scented products, and douching, which is not recommended by major medical organizations because it disrupts this protective ecosystem.",
+      "Common symptoms of imbalance include unusual discharge, odor, itching, or irritation. These can indicate bacterial vaginosis, yeast infections, or other conditions that benefit from a proper diagnosis rather than guesswork.",
+      "Breathable cotton underwear, avoiding unnecessary scented products, and letting the body's natural balance do its work are simple, evidence-supported habits.",
+      "If symptoms are persistent or recurring, see a healthcare provider rather than repeatedly self-treating with over-the-counter products — recurring symptoms sometimes point to something that needs a different approach.",
+    ],
+  },
+  {
     slug: "painful-sex-causes-and-solutions",
     title: "Painful Sex: What's Really Causing It and How to Get Relief",
     excerpt:
@@ -377,31 +397,11 @@ export const posts: Post[] = [
       "Stress plays a much larger role in libido than most couples realize. Chronic stress elevates cortisol, which can suppress the hormones involved in sexual desire, including testosterone in both men and women. If one partner is under significant work or family stress, a temporary drop in desire is a physiological response, not a reflection of the relationship.",
       "Life stage matters too. New parents, people managing chronic illness, and anyone going through a major hormonal shift, from postpartum recovery to perimenopause, often experience real changes in desire that have nothing to do with attraction to their partner. Naming that stage out loud, instead of assuming it reflects something deeper, keeps the conversation grounded in what's actually happening.",
       "So how do couples actually move forward? The most consistently supported approach is talking about it directly, outside the bedroom, when neither partner is stressed or feeling rejected in the moment. A calm conversation over coffee tends to go far better than one that happens right after an awkward silence in bed.",
-      "Framing the conversation around curiosity rather than blame changes the entire tone. Instead of "you never want to," try something like "I've noticed we've felt distant lately, and I'd love to understand what's going on for you." This invites information instead of triggering defensiveness.",
+      "Framing the conversation around curiosity rather than blame changes the entire tone. Instead of 'you never want to,' try something like 'I've noticed we've felt distant lately, and I'd love to understand what's going on for you.' This invites information instead of triggering defensiveness.",
       "Scheduling intimacy sounds unromantic to some people, but research on relationship satisfaction suggests it can actually help, particularly for couples dealing with a genuine desire gap. Removing the pressure of spontaneity, and instead creating reliable space for connection, often allows responsive desire the room it needs to show up.",
       "Non-penetrative intimacy deserves more attention than it usually gets in these conversations. Touch, massage, and closeness without the expectation of sex can rebuild connection without the pressure that sometimes makes the higher-desire partner feel rejected and the lower-desire partner feel obligated.",
       "It's also worth ruling out medical contributors before assuming the gap is purely relational. Certain medications, especially some antidepressants, thyroid conditions, and hormonal shifts can all lower desire independent of the relationship itself. A conversation with a doctor can rule these out or offer solutions if they're contributing.",
       "If the gap continues to cause real distress for either partner, a certified sex therapist can offer structured tools built specifically for this. There's no shame in needing outside support. Desire discrepancy is common enough that entire areas of therapy exist just to help couples work through it well.",
-    ],
-  },
-  {
-    slug: "vaginal-microbiome-basics",
-    title: "Your Vaginal Microbiome: A Beginner's Guide",
-    excerpt:
-      "An ecosystem of bacteria plays a bigger role in comfort and health than most people realize.",
-    category: "Women's Health",
-    readTime: "6 min read",
-    date: "2026-03-18",
-    height: "medium",
-    image:
-      "https://images.unsplash.com/photo-1571781926291-c477ebfd024b?q=80&w=1200&auto=format&fit=crop",
-    author: "Dr. Maren Ellis",
-    content: [
-      "A healthy vaginal microbiome is typically dominated by Lactobacillus bacteria, which produce lactic acid and keep the environment mildly acidic — a natural defense against infection.",
-      "This balance can be disrupted by antibiotics, hormonal shifts, scented products, and douching, which is not recommended by major medical organizations because it disrupts this protective ecosystem.",
-      "Common symptoms of imbalance include unusual discharge, odor, itching, or irritation. These can indicate bacterial vaginosis, yeast infections, or other conditions that benefit from a proper diagnosis rather than guesswork.",
-      "Breathable cotton underwear, avoiding unnecessary scented products, and letting the body's natural balance do its work are simple, evidence-supported habits.",
-      "If symptoms are persistent or recurring, see a healthcare provider rather than repeatedly self-treating with over-the-counter products — recurring symptoms sometimes point to something that needs a different approach.",
     ],
   },
 ];
