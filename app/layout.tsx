@@ -35,7 +35,9 @@ export default function RootLayout({
     <html lang="en" className={`${cormorant.variable} ${dmSans.variable}`}>
       <body className="bg-cream text-ink-800 font-body antialiased">
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9559907114291837"
-     crossorigin="anonymous"></script>
+     crossorigin="anonymous"
+    strategy="afterInteractive"
+        />
         <Header />
         <main>{children}</main>
         <Footer />
