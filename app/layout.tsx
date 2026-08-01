@@ -27,6 +27,9 @@ export const metadata: Metadata = {
   },
   description:
     "Evidence-based writing on women's sexual and pelvic health, hormones and cycle tracking, men's health and vitality, intimacy, and daily wellness.",
+  other: {
+    "google-adsense-account": "ca-pub-9559907114291837",
+  },
 };
 
 export default function RootLayout({
